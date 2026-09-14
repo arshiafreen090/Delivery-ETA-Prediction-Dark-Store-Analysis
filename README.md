@@ -25,6 +25,14 @@ Data → Cleaning → EDA → Feature Engineering
 
 <!-- Add the main Excalidraw workflow diagram here -->
 
+## Project Workflow
+
+The project follows two parallel analytical workflows: delivery ETA prediction and nearest dark-store analysis.
+
+<p align="center">
+  <img src="assets/project_flowchart.png" alt="Project Workflow" width="900">
+</p>
+
 ## Dataset
 
 The project uses a Kaggle food-delivery dataset containing **45,584 rows and 20 original columns**.
