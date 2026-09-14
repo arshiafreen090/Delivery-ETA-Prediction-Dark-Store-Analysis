@@ -192,6 +192,14 @@ final_eta_model.pkl
 
 The `.pkl` contains the complete preprocessing + model pipeline, so a separate scaler or encoder file is not required.
 
+### ETA Prediction Dashboard
+
+The trained model is integrated into a Streamlit dashboard where users can enter delivery details and receive an estimated delivery time.
+
+<p align="center">
+  <img src="assets/eta-Prediction-ss.png" alt="ETA Prediction Dashboard" width="900">
+</p>
+
 ## Feature Importance & SHAP
 
 Feature importance was used to identify influential transformed features, while **SHAP** was used for global and local model explainability.
