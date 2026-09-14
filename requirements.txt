@@ -1,0 +1,6 @@
+joblib==1.6.0
+pandas==3.0.5
+scikit-learn==1.6.1
+scipy==1.18.1
+streamlit==1.63.0
+xgboost==3.4.1
