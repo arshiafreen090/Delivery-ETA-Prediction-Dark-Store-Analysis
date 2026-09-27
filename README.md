@@ -241,7 +241,7 @@ Store counts:
 | Zepto | 1,089 |
 | Instamart | 1,038 |
 
-Customer-to-store candidates were searched within a **4 km radius** using geographic nearest-neighbor search with Haversine distance.
+Customer-to-store candidates were searched within a **4 km radius** using geographic nearest-neighbor search and ball tree alogorithm with Haversine distance.
 
 Results:
 
