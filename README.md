@@ -339,7 +339,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Resources
+## All Resources 
 
 - **Live Application:** [Delivery ETA Predictor](https://food-delivery-eta-prediction.streamlit.app/)
 - **Main Dataset:** [Food Delivery Dataset](https://www.kaggle.com/datasets/afreeenarshi/zomato)
