@@ -206,13 +206,13 @@ Feature importance was used to identify influential transformed features, while 
 
 Important signals included:
 
-- road traffic density
-- multiple deliveries
-- weather conditions
-- delivery-person rating
-- festival conditions
-- vehicle condition
-- distance
+- road traffic density.
+- multiple deliveries.
+- weather conditions.
+- delivery-person rating.
+- festival conditions.
+- vehicle condition.
+- distance.
 
 SHAP helps explain not only which features matter, but also **how individual feature values push a prediction higher or lower**.
 
