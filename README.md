@@ -216,11 +216,11 @@ Important signals included:
 
 SHAP helps explain not only which features matter, but also **how individual feature values push a prediction higher or lower**.
 
-## Dark Store Analysis
+# Dark Store Analysis
 
 A separate geographic extension was performed using dark-store locations from:
 
-### Dark Store Datasets
+## Dark Store Datasets
 
 | Platform | Dataset |
 |---|---|
